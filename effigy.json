@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Breed",
+        "value": "Maltipoo"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Mocha"
+      }
+    ],
+    "description": "This is an Effigy of Justice.",
+    "image": "https://ipfs.io/ipfs/QmXyZcvRFVhVqdaszCcT8LMfxQtTYTR38VcHWxM2nXrMXJ",
+    "name": "Effigy of Justice"
+  }
+  
